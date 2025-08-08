@@ -3,21 +3,29 @@
     "şəhər": "Bakı",
     "məhsul_adı": "Çips",
     "qiymət": 2.5,
-    "kateqoriya": "Atışdırmalıq",
+    "kateqoriya": "Atıştırmalıqlar",
     "şəkil_url": "https://ornek-site.com/gorseller/cips.jpg"
   },
   {
     "şəhər": "Gəncə",
     "məhsul_adı": "Şokolad",
-    "qiymət": 3.0,
-    "kateqoriya": "Atışdırmalıq",
+    "qiymət": 3,
+    "kateqoriya": "Atıştırmalıqlar",
     "şəkil_url": "https://ornek-site.com/gorseller/sokolad.jpg"
   },
   {
     "şəhər": "Sumqayıt",
     "məhsul_adı": "Qazlı içki",
     "qiymət": 1.8,
-    "kateqoriya": "İçki",
+    "kateqoriya": "İçkilər",
     "şəkil_url": "https://ornek-site.com/gorseller/qazli_icki.jpg"
+  },
+  {
+    "şəhər": "Bakı",
+    "məhsul_adı": "Çips",
+    "qiymət": 2.99,
+    "kateqoriya": "Atıştırmalıqlar",
+    "şəkil_url": "https://i.ibb.co/jBz0myL/2.webp",
+    "təsvir": "Acı Soslu"
   }
 ]
